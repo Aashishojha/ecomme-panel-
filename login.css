@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Upright|Dancing+Script|Lato|Lobster|Pacifico|Roboto+Slab');
+/*
+a:link {
+  color: white;
+}
+
+a:visited {
+  color:white ;
+}
+
+a:hover {
+  color:#FF395D ;
+}
+
+a:active {
+  color: #FFED04;
+}*/
+/*a:hover {
+	background-color: blue;
+}*/
+/*.navbar-toggle .icon-bar {
+  display: block;
+  width: 35px;
+  height: 10px;
+  background-color: blue;
+  border-radius: 19px;
+}
+.navbar{
+	background-color:#FB2525;
+
+}
+.dc{
+	background-color:#FB2525;
+
+}*/
+
+/*/*/*/*/*/
+}
+.loginbox{  width: 220px;
+  height: 420px;
+  background:#000;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+h1{
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+   font-family: Lato;
+}
+
+.ao{
+
+  background-image: url("http://localhost/ecomme/Img/np.png");
+ /*   background-color: #4A51CC;*/
+   /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.avatar{
+  width: 100px;
+  height: 100px;
+  border-radius: 90%;
+  position: absolute;
+  top: -90px;
+  left: calc(50% - 50px);
+}
+.loginbox p{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+.loginbox input{
+  width: 100%
+  margin-bottom:20px;
+}
+.loginbox input[type="text"], input[type="password"]
+{
+  border:none;
+  border-bottom: 1px solid #fff;
+  background:transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size:16px;
+}
+.loginbox input[type="submit"]
+{
+  border:none;
+  outline: none;
+  height: 40px;
+  background:#fb2525;
+  color: #fff;
+  font-size:18px;
+  border-radius: 20px;
+}
+.loginbox input[type="submit"]:hover
+{
+  cursor: pointer;
+  background:#ffc107;
+  color: #000;
+}
+
+.loginbox a{
+  text-decoration: 
+  font-size:12px;
+  line-height: 20px;
+  color: darkgrey;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  max-width:800px;
+  margin: 0 auto;
+}
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(, 0, 0); 
+  background: rgba(0, 0, 0, 0.3);  Black background with 0.5 opacity 
+  color: #f1f1f1;
+  width: 96.3%;
+  padding: 30px;
+}

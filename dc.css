@@ -1,0 +1,14 @@
+.ojha {/*width: 300px;*/
+/*  height: 100px;
+  padding: 15px;*/
+  background-color:#282923;
+  box-shadow: 0px 0px 10px 10px;
+}
+
+.trapezoid {
+	border-bottom: 50px solid white;
+	border-left: 55px solid transparent;
+	border-right: 55px solid transparent;
+	height: 100%;
+	width: 100%;
+}
